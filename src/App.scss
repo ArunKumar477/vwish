@@ -1,0 +1,19 @@
+
+.HeaderContent {
+  :global {
+    .ant-page-header-heading {
+      background-color: red !important;
+    }
+    .ant-page-header-back .ant-avatar.ant-avatar-circle.ant-avatar-image img {
+      height: 24px !important;
+      width: 24px !important;
+    }
+  }
+  }
+
+/* .span.ant-avatar.ant-avatar-circle.ant-avatar-image >img {
+    height: 24px !important;
+    width: 24px !important;
+} */
+
+
